@@ -3,3 +3,10 @@
 *.pem
 *secret*
 *.sql
+*.env
+.env.*
+id_*
+*.pem
+*.crt
+*.p12
+*.log
